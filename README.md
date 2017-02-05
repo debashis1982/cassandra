@@ -1,0 +1,1 @@
+install cassandra using terraform
